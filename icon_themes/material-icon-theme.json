@@ -54,6 +54,7 @@
         "nim": { "path": "./icons/nim.svg" },
         "nix": { "path": "./icons/nix.svg" },
         "ocaml": { "path": "./icons/ocaml.svg" },
+        "odin": { "path": "./icons/odin.svg" },
         "php": { "path": "./icons/php.svg" },
         "prettier": { "path": "./icons/prettier.svg" },
         "prisma": { "path": "./icons/prisma.svg" },
